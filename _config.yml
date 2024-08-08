@@ -10,15 +10,15 @@ blog_theme: light # Or use dark
 name: baek chan ho
 tagline: Full Stack Developer
 about-description: 저는 경동고등학교에 재학 중인 18살 백찬호입니다. # Add Discription
-pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
+pic: 기본프로필.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
-email: artemsheludko@tuta.io # Add your Email address
-phone: 044 825 5523 # Add your Phone number
+email: sciencebaekch@gmail.com # Add your Email address
+phone: 010-9189-1682 # Add your Phone number
 website: artemsheludko.pw # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
-github: artemsheludko # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
+github: baekch07 # Add your Github handle
+instagram: '@baek_ch_ho' # Add your Twitter handle
 
 # Tracker
 analytics:
