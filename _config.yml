@@ -8,9 +8,9 @@ blog_theme: light # Or use dark
 
 # Profile information
 name: baek chan ho
-tagline: Full Stack Developer
+tagline: student
 about-description: 저는 경동고등학교에 재학 중인 18살 백찬호입니다. # Add Discription
-pic: 기본프로필.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
+pic: 호날두.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
 email: sciencebaekch@gmail.com # Add your Email address
